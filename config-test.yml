@@ -1,5 +1,3 @@
-server:
-  port: 3366
 eureka:
   client:
     service-url:
